@@ -1,6 +1,6 @@
 Name:		texlive-fitbox
 Version:	50088
-Release:	1
+Release:	2
 Summary:	Fit graphics on a page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fitbox
