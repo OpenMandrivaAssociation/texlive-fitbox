@@ -3,7 +3,7 @@ Version:	50088
 Release:	2
 Summary:	Fit graphics on a page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fitbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fitbox
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fitbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fitbox.doc.r%{version}.tar.xz
